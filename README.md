@@ -1,6 +1,8 @@
 # README
 
-## Blog Rails
+## Pinterest Rails
+
+Projet pinterest
 
 ## Versions
 
